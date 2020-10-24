@@ -7,7 +7,25 @@
 		<key>Parstagram.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>8</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>274CB5CB2539516B0073BAA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>274CB5E12539516C0073BAA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>274CB5EC2539516C0073BAA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
